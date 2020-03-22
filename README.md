@@ -32,7 +32,7 @@ What we learned:
 •	Optimizing user experience 
 •	Understanding user needs
 
-[![IMAGE ALT TEXT HERE](https://github.com/GioLomia/Deep_Learner/blob/master/images/Video%20Preview.PNG)](https://www.youtube.com/watch?v=GILXhUWWP7s)
+[![IMAGE ALT TEXT HERE](https://github.com/GioLomia/Deep_Learner/blob/master/DeepLearner.gif)](https://www.youtube.com/watch?v=GILXhUWWP7s)
 
 
 # To Run the App
